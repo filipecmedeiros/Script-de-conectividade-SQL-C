@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1476985184 source:d:\documentos\engenharia da computação\0º período\gerenciamento de dados e informação\projeto\2º unidade\conectividade\main.c
+	<stdio.h>
+	<windows.h>
+	<sql.h>
+	<sqlext.h>
+	<sqltypes.h>
+
